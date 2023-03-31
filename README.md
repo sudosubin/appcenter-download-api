@@ -5,7 +5,7 @@ App Center download url api using Vercel Edge Functions.
 ## API Usage
 
 ```sh
-curl http://localhost:3000/api/dexterleng/homerow-redux/production/0.18
+curl https://appcenter-download-api.vercel.app/api/dexterleng/homerow-redux/production/0.18
 ```
 
 ## How to Use
