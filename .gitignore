@@ -1,0 +1,9 @@
+# nix
+.envrc
+.direnv
+
+# vercel
+.vercel
+
+# node.js
+node_modules

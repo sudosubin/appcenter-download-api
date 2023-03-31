@@ -1,0 +1,24 @@
+{
+  "name": "appcenter-download-api",
+  "version": "0.1.0",
+  "description": "App Center download url api using Vercel Edge Functions.",
+  "license": "MIT",
+  "author": "sudosubin <sudosubin@gmail.com>",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/sudosubin/appcenter-download-api.git"
+  },
+  "scripts": {},
+  "dependencies": {
+    "@vercel/edge": "^0.3.1"
+  },
+  "devDependencies": {
+    "@types/node": "^18.15.11",
+    "typescript": "^5.0.3",
+    "vercel": "^28.18.3"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  },
+  "private": true
+}
